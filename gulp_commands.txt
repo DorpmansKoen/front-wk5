@@ -1,0 +1,15 @@
+cd "path_to_project"
+npm init
+
+npm install -g gulp
+npm install gulp-concat --save-dev
+npm install --save-dev gulp-uglify gulp-jshint gulp-notify jshint-stylish gulp-sourcemaps
+
+npm install --save-dev gulp-autoprefixer gulp-clean-css gulp-csslint
+
+
+
+
+gulp-autoprefixer : prefix automatiseren
+gulp-clean-css  : 
+gulp-csslint : 

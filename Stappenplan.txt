@@ -1,0 +1,4 @@
+STAP 0: GITHUB REPO (ignore visual studio)
+STAP 1: Mappenstructuur
+STAP 2: Push naar Master
+STAP 3: 
